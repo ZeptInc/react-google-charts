@@ -5,8 +5,5 @@ npm-debug.log
 /demo/dist
 /es6
 /es
-/lib
-/umd
 npm-debug.log*
-/dist
 /out
